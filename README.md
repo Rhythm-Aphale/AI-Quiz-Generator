@@ -45,5 +45,12 @@ A powerful, AI-powered quiz generator web app built with **Next.js** and **Gemin
 
 ---
 
-## 📁 Folder Structure
+---
+
+## 🔐 Setup Locally
+
+```bash
+git clone https://github.com/your-username/ai-quiz-generator.git
+cd ai-quiz-generator
+npm install
 
